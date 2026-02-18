@@ -7,7 +7,7 @@ st.title("⚡ المُوجِّه السياقي الخارق (Context Injector)"
 st.markdown("أداة للمقاولين: حوّل مهامك العادية إلى أوامر خارقة يفهمها ChatGPT كأنه شريكك.")
 
 # إدخال مفتاح API (يضعه المستخدم أو تضعه أنت)
-api_key = st.text_input("أدخل مفتاح Google Gemini API الخاص بك (مؤقتاً للنسخة التجريبية):", type="password")
+api_key = st.text_input("AIzaSyC_rBAXmQiTtGtJIHwJaiy3Zg4MzXW4Wfw", type="password")
 
 st.markdown("---")
 
